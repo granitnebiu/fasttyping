@@ -1,0 +1,4 @@
+#ignore those folder 
+
+*.vscode 
+*.md
